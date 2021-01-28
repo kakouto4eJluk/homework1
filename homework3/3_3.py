@@ -5,9 +5,9 @@
 
 def my_func(pos1, pos2, pos3):
     my_list = list()
-    my_list.insert(1,pos1)
-    my_list.insert(2,pos2)
-    my_list.insert(3,pos3)
+    my_list.append(pos1)
+    my_list.append(pos2)
+    my_list.append(pos3)
     my_list.sort(reverse=True)
     res = my_list[0] + my_list[1]
     return res

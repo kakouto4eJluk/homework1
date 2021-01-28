@@ -6,7 +6,7 @@
 о пользователе одной строкой.
 '''
 
-user_info = {'имя': '', 'фамилию': '', 'год рождения': '', 'email': '', 'телефон': ''}
+
 
 '''
 name = input('Введите имя: ')
@@ -17,6 +17,7 @@ email = input('Введите email: ')
 telephone = input('Введите номер телефона: ')
 '''
 def my_func ():
+    user_info = {'имя': '', 'фамилию': '', 'год рождения': '', 'email': '', 'телефон': ''}
     for f in user_info.keys():
         user_data = input(f'Введите {f}: ')
         user_info[f] = user_data
