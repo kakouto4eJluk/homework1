@@ -66,4 +66,3 @@ mat2 = Matrix([[4, 2, 3], [5, 2, 3]])
 #res_sum = mat + mat2
 
 print(mat + mat2)
-
