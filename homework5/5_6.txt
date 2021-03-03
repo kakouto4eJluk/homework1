@@ -1,0 +1,4 @@
+Algebra 100 50 20
+Chemistry 30 10 10
+Health 30 0 9
+English 22 10 0
