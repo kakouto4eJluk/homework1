@@ -11,3 +11,4 @@ for i in r:
         max_index = r.index(i)
 
 print(f'Число {r[max_index]}, встречается {r.count(max_index)} раза.')
+

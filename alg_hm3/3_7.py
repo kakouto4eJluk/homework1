@@ -28,3 +28,4 @@ sort_list.sort()
 print(
     f'Два наименьших элемента (второй способ): {sort_list[0]} и {sort_list[1]}.'
     )
+

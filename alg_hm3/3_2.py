@@ -15,3 +15,4 @@ for n in r:
         index_even.append(r.index(n))
 
 print(f'Индексы чётных элементов первого массива: {index_even}.')
+

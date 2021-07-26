@@ -12,3 +12,4 @@ for i in range(4):
 
 for a in matrix:
     print(('{:>4d}' * 5).format(*a))
+

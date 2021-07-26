@@ -10,3 +10,4 @@ for n in range(2, 10):
     print(
         f'Для числа {n} кратны - {len(result[n])}. Кратные числа: {result[n]}.'
         )
+

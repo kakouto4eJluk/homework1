@@ -18,3 +18,4 @@ min_index = r.index(min)
 max_index = r.index(max)
 r[min_index], r[max_index] = r[max_index], r[min_index]
 print(f'Массив осле изменения элементов {min_index} и {max_index}: {r}.')
+
